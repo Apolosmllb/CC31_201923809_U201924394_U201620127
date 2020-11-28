@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>logo.jpg</file>
+        <file>USR.png</file>
+        <file>fondo-codigo-binario_87720-794.jpg</file>
+        <file>Iinin.png</file>
+        <file>usua.png</file>
+        <file>IBUS.png</file>
+        <file>Iguarda.png</file>
+        <file>IMen.png</file>
+        <file>INoti.png</file>
+        <file>Ipub.png</file>
+        <file>../campa_a_cruzcampo_1.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>descarga.png</file>
+    </qresource>
+</RCC>
